@@ -66,9 +66,6 @@ python scanner.py example.com --timeout 0.3
 - Python 3.10+
 - No external packages needed
 
-## ⚠️ Legal Notice
-
-dont do this if u dont have permission, that's not cool bro
 ## Ideas for Extension
 
 - [ ] UDP scanning
